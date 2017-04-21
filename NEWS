@@ -1,0 +1,12 @@
+Version 1
+
+* initial version
+
+version 2
+
+* milan zimmermann - notes
+* attempt to provide environment which hopefully allows other to use same approach to create and persist Etoys based Sugaractivities.
+* renamed and modified startup shell script. It is now EtoysBasedActivityStart.sh.
+* renamed FreeCell.st to EtoysBasedActivityCode.st
+* modified  code to allow persistence of FreeCell Statistics in Journal. This serves merely as an example of how other Etoys objects can be exposed as Sugar activities. Code is in EtoysBasedActivityCode.st
+* see blog at http://etoys-squeak-and-sugar.blogspot.com where I will try to describe some details about creating persistable Sugar Activities in Etoys.
